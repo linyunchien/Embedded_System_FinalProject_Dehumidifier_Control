@@ -86,11 +86,4 @@ This project integrates Arduino and a PyQt5 application to monitor the environme
 - Modify the `thresholdHumidity` variable in the Arduino code to change the humidity threshold.
 - Adjust the GUI layout or add new features by modifying the Python code.
 
-## License
-
-This project is open-source and can be freely modified and distributed for educational and personal use.
-
----
-
-Feel free to reach out for further assistance or if you have any questions!
 
